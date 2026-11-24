@@ -1,0 +1,272 @@
+[
+  {
+    "case_id": "T01",
+    "description": "Baseline three-subject case",
+    "daily_hours": 4,
+    "session_minutes": 50,
+    "subjects": [
+      [
+        "Data Structures",
+        10,
+        "Medium",
+        "Medium"
+      ],
+      [
+        "Operating Systems",
+        13,
+        "Hard",
+        "Weak"
+      ],
+      [
+        "Computer Networks",
+        16,
+        "Medium",
+        "Good"
+      ]
+    ]
+  },
+  {
+    "case_id": "T02",
+    "description": "One subject only",
+    "daily_hours": 2,
+    "session_minutes": 50,
+    "subjects": [
+      [
+        "Mathematics",
+        7,
+        "Medium",
+        "Weak"
+      ]
+    ]
+  },
+  {
+    "case_id": "T03",
+    "description": "Near exam with weak preparation",
+    "daily_hours": 3,
+    "session_minutes": 45,
+    "subjects": [
+      [
+        "DBMS",
+        2,
+        "Hard",
+        "Weak"
+      ],
+      [
+        "Python",
+        12,
+        "Easy",
+        "Good"
+      ]
+    ]
+  },
+  {
+    "case_id": "T04",
+    "description": "Multiple exams on nearby dates",
+    "daily_hours": 5,
+    "session_minutes": 60,
+    "subjects": [
+      [
+        "AI",
+        5,
+        "Hard",
+        "Medium"
+      ],
+      [
+        "ML",
+        6,
+        "Hard",
+        "Weak"
+      ],
+      [
+        "Statistics",
+        8,
+        "Medium",
+        "Medium"
+      ]
+    ]
+  },
+  {
+    "case_id": "T05",
+    "description": "Longer preparation window",
+    "daily_hours": 4,
+    "session_minutes": 50,
+    "subjects": [
+      [
+        "Algorithms",
+        25,
+        "Hard",
+        "Weak"
+      ],
+      [
+        "Networks",
+        30,
+        "Medium",
+        "Medium"
+      ]
+    ]
+  },
+  {
+    "case_id": "T06",
+    "description": "Low daily availability",
+    "daily_hours": 1,
+    "session_minutes": 30,
+    "subjects": [
+      [
+        "OS",
+        4,
+        "Hard",
+        "Weak"
+      ],
+      [
+        "DBMS",
+        9,
+        "Medium",
+        "Medium"
+      ]
+    ]
+  },
+  {
+    "case_id": "T07",
+    "description": "High daily availability",
+    "daily_hours": 8,
+    "session_minutes": 90,
+    "subjects": [
+      [
+        "Compiler Design",
+        9,
+        "Hard",
+        "Weak"
+      ],
+      [
+        "TOC",
+        12,
+        "Medium",
+        "Medium"
+      ]
+    ]
+  },
+  {
+    "case_id": "T08",
+    "description": "All subjects well prepared",
+    "daily_hours": 3,
+    "session_minutes": 50,
+    "subjects": [
+      [
+        "English",
+        8,
+        "Easy",
+        "Good"
+      ],
+      [
+        "Soft Skills",
+        10,
+        "Easy",
+        "Good"
+      ]
+    ]
+  },
+  {
+    "case_id": "T09",
+    "description": "Difficult subjects mixed readiness",
+    "daily_hours": 4,
+    "session_minutes": 60,
+    "subjects": [
+      [
+        "OS",
+        11,
+        "Hard",
+        "Weak"
+      ],
+      [
+        "Computer Architecture",
+        15,
+        "Hard",
+        "Medium"
+      ],
+      [
+        "DBMS",
+        18,
+        "Medium",
+        "Good"
+      ]
+    ]
+  },
+  {
+    "case_id": "T10",
+    "description": "Short sessions",
+    "daily_hours": 2.5,
+    "session_minutes": 25,
+    "subjects": [
+      [
+        "Cyber Security",
+        6,
+        "Medium",
+        "Weak"
+      ],
+      [
+        "Cloud Computing",
+        9,
+        "Medium",
+        "Medium"
+      ]
+    ]
+  },
+  {
+    "case_id": "T11",
+    "description": "Uneven exam dates",
+    "daily_hours": 5,
+    "session_minutes": 50,
+    "subjects": [
+      [
+        "Subject A",
+        3,
+        "Easy",
+        "Good"
+      ],
+      [
+        "Subject B",
+        14,
+        "Hard",
+        "Weak"
+      ],
+      [
+        "Subject C",
+        21,
+        "Medium",
+        "Medium"
+      ]
+    ]
+  },
+  {
+    "case_id": "T12",
+    "description": "Several subjects and limited time",
+    "daily_hours": 3,
+    "session_minutes": 45,
+    "subjects": [
+      [
+        "Data Science",
+        4,
+        "Hard",
+        "Weak"
+      ],
+      [
+        "Big Data",
+        5,
+        "Medium",
+        "Weak"
+      ],
+      [
+        "Java",
+        8,
+        "Medium",
+        "Medium"
+      ],
+      [
+        "AI",
+        11,
+        "Hard",
+        "Good"
+      ]
+    ]
+  }
+]\n
